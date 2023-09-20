@@ -9,10 +9,10 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 
 Term: Fall 2023
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ Projec title: The effects of demographic factors on happy moments
++ This project is conducted by Nashita Rahman
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary:  The LDA models shed light on how the nature of happy moments varies across different demographic groups. Young individuals tend to find happiness in a diverse range of activities such as gaming, music, and work-related achievements, while older individuals focus more on everyday life, work, celebrations, and outdoor activities. Men express happiness through a wide array of topics including work, gaming, and fixing things, whereas women emphasize personal and emotional experiences, celebrations, and memories. Married individuals highlight the importance of relationships and interactions in their happy moments, while single individuals place greater emphasis on work-related and financial sources of happiness. Parenthood, regardless of the presence or absence of children, underscores the significance of family, but those without children lean toward happiness derived from various activities and experiences. These findings illuminate the multifaceted nature of happiness, influenced by age, gender, marital status, and parenthood, each contributing unique dimensions to what brings joy to people's lives.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
